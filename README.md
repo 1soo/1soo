@@ -97,17 +97,3 @@ Full Stack Developer & AI Builder
     </td>
   </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1soo&show_icons=true&hide_border=true&theme=graywhite&count_private=true&include_all_commits=true" alt="1soo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1soo&layout=compact&hide_border=true&theme=graywhite&langs_count=8" alt="Top Languages" />
-</p>
-
-<!--
-테마 (theme parameter):
-graywhite(미니멀) · default · transparent · vue · nightowl · dracula
--->
