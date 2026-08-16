@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:aaa4799@metanetglobal.com"><img src="https://img.shields.io/badge/Email-3182F6?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://velog.io/@1soo/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" alt="velog"></a>
+  📧 <a href="mailto:aaa4799@metanetglobal.com">aaa4799@metanetglobal.com</a>
+  <br/>
+  ✍️ <a href="https://velog.io/@1soo/posts">velog.io/@1soo</a>
 </p>
 
 <br/>
@@ -22,7 +23,9 @@
 
 <h3 align="center">💼 Experience</h3>
 
-<table width="100%">
+<div align="center">
+
+<table>
   <thead>
     <tr>
       <th align="center">Company</th>
@@ -34,10 +37,12 @@
     <tr>
       <td align="center"><b>Metanet Global</b></td>
       <td align="center">Backend Developer</td>
-      <td align="center"><img src="https://img.shields.io/badge/2025.03_~_present-3182F6?style=flat&logoColor=white" alt="period" /></td>
+      <td align="center">2025.03 ~ present</td>
     </tr>
   </tbody>
 </table>
+
+</div>
 
 <br/>
 
