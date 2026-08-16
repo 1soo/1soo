@@ -22,10 +22,22 @@
 
 <h3 align="center">💼 Experience</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/2025.03_~_present-3182F6?style=flat&logoColor=white" alt="period" />
-  &nbsp;&nbsp;<b>Metanet Global</b> &nbsp;·&nbsp; <sub>Backend Developer</sub>
-</p>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">Company</th>
+      <th align="center">Role</th>
+      <th align="center">Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Metanet Global</b></td>
+      <td align="center">Backend Developer</td>
+      <td align="center"><img src="https://img.shields.io/badge/2025.03_~_present-3182F6?style=flat&logoColor=white" alt="period" /></td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
